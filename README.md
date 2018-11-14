@@ -1,2 +1,2 @@
-# Programmin_language
+# Programmin language
 labs from university
